@@ -75,7 +75,7 @@
         tools:ignore="MissingConstraints" />
 
     <Button
-        android:id="@+id/btn_new_acc"
+        android:id="@+id/btn_new_acc_create"
         android:layout_width="260dp"
         android:layout_height="45dp"
         android:layout_marginTop="12dp"

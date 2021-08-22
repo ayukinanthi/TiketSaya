@@ -13,4 +13,5 @@
     <color name="colorPrimaryDark">#203DD1</color> <!--untuk status bar-->
     <color name="grayPrimary">#939090</color>
     <color name="biruSecondary">#2595f5</color>
+    <color name="bgPrimary">#edf1f8</color>
 </resources>
